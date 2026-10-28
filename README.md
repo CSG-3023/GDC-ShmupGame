@@ -68,7 +68,7 @@ Maintain and update your **Project Wiki** throughout development to document the
      - Include a **flowchart diagram** illustrating the core gameplay loop.
    - Create an **Objects & Entities** page identifying the major objects and entities in the game and explaining their purpose, behavior, and interactions.
 5. **Create and Add a Class Diagram**
-   - Follow the **[Class Diagram Tutorial](../../tutorials/UML-Diagram/TU-ClassDiagram-VS.md)** to create and export the class diagram.
+   - Follow the **[Class Diagram Tutorial](https://csg-utulsa.github.io/csg-assignments/tutorials/UML-Diagram/TU-ClassDiagram-VS.html)** to create and export the class diagram.
    - Add the exported class diagram to the appropriate page in the Project Wiki.
   
 > [!IMPORTANT]
