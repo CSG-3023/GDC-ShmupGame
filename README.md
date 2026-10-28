@@ -7,7 +7,7 @@
 For this **Game Design Challenge**, you will design and develop a **Prototype (Draft)** of a Shoot ’em Up (SHMUP) game that demonstrates the intended player experience through approximately **1–2 minutes of fun, playable gameplay** while meeting the design and technical requirements provided in the challenge documentation.
 
 > [!Important]
-> Review and follow the **[Game Design Challenge Guidelines](../index.md)** before beginning development.
+> Review and follow the **[Game Design Challenge Guidelines](https://csg-utulsa.github.io/csg-assignments/game-design-challenges/index.html)** before beginning development.
 
 ---
 
@@ -16,10 +16,10 @@ For this **Game Design Challenge**, you will design and develop a **Prototype (D
 ### 1. Develop the Prototype (Draft)
 
 1. Begin by reviewing the following challenge documentation:
-   - **[Concept Document](shmup-concept.md)** — Establishes the game's concept, premise, theme, and creative direction.
-   - **[Player Persona](shmup-persona.md)** — Defines the target player and their characteristics, motivations, and preferences.
-   - **[Game Brief](shmup-brief.md)** — Defines the game's requirements, scope, and development direction.
-   - **[Technical Brief](shmup-tech-brief.md)** — Defines the game's technical requirements, development tools, controls, performance targets, and software dependencies.
+   - **[Concept Document](https://github.com/CSG-3023/GDC-ShmupGame/wiki/Concept-Document)** — Establishes the game's concept, premise, theme, and creative direction.
+   - **[Player Persona](https://github.com/CSG-3023/GDC-ShmupGame/wiki/Player-Persona)** — Defines the target player and their characteristics, motivations, and preferences.
+   - **[Game Brief](https://github.com/CSG-3023/GDC-ShmupGame/wiki/Game-Brief)** — Defines the game's requirements, scope, and development direction.
+   - **[Technical Brief](https://github.com/CSG-3023/GDC-ShmupGame/wiki/Technical-Brief)** — Defines the game's technical requirements, development tools, controls, performance targets, and software dependencies.
 
 2. Develop a **Prototype (Draft)** that follows the requirements and creative direction established in these documents.
 
@@ -33,13 +33,13 @@ For this **Game Design Challenge**, you will design and develop a **Prototype (D
 1. Create and test a **WebGL build** of the completed Prototype (Draft). Ensure the game loads, plays correctly, and provides the intended experience.
 
 2. Publish the WebGL build to **itch.io** so the game can be played directly in a web browser.
-   * Follow the **[Upload to Itch.io Tutorial](../../tutorials/itch-io/TU-Itch-io-Submission.md)** for the required upload and configuration process.
+   * Follow the **[Upload to Itch.io Tutorial](https://csg-utulsa.github.io/csg-assignments/tutorials/itch-io/TU-Itch-io-Submission.html)** for the required upload and configuration process.
 
 3. Submit your game to the **Playtest Game Jam** for peer evaluation. The link to the game jam will be provided in Harvey.
-   * Follow the **[Submitting to an Itch.io Game Jam Tutorial](../../tutorials/itch-io/TU-Itch-io-JamSubmission.md)** for the required upload and configuration process.
+   * Follow the **[Submitting to an Itch.io Game Jam Tutorial](https://csg-utulsa.github.io/csg-assignments/tutorials/itch-io/TU-Itch-io-JamSubmission.html)** for the required upload and configuration process.
 
 > [!NOTE]
-> If you do not already have an **itch.io account**, you will need to create one. The **[Create an Itch.io Account Tutorial](../../tutorials/itch-io/TU-Itch-io-Account.md)** can help guide you through the process.
+> If you do not already have an **itch.io account**, you will need to create one. The **[Create an Itch.io Account Tutorial](https://csg-utulsa.github.io/csg-assignments/tutorials/itch-io/TU-Itch-io-Account.html)** can help guide you through the process.
 
 > [!WARNING]
 > All games must be submitted to the **Playtest Game Jam** for grading and peer evaluation. Games not submitted to the Playtest Game Jam by the deadline **WILL NOT BE GRADED**.
